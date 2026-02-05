@@ -1,0 +1,7 @@
+#s420 kernel 5.4 speaker board airplay startup parameters
+DEVICE_NAME="AmlSpeaker-a113x-s420"
+AIRPLAY_SOUNDCARD="hw:0,2"
+PORT_NUM=20000
+I2C_BUS="/dev/i2c-3"
+AIRPLAY_FILE=""
+RES_MANAGE="FALSE"

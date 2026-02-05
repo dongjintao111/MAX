@@ -1,0 +1,5 @@
+#s420 kernel 5.4 speaker board avs startup parameters
+PRODUCT_PLF="A113X_PLF"
+RUN_SPEAKER_PROCESS="FALSE"
+CHANNEL=16
+MIC_NUM=6

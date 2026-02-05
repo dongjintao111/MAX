@@ -1,0 +1,5 @@
+#s420 kernel 5.4 speaker board cast-lite startup parameters
+DEVICE_NAME="AmlSpeaker-a113x-s420"
+OUTPUT_DEVICE="dmixer_auto"
+ALSA_VOLUME="Master"
+RES_CONTROL="false"

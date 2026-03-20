@@ -11,3 +11,4 @@
 *.gz filter=lfs diff=lfs merge=lfs -text
 node-v24.14.0-linux-x64.tar.xz filter=lfs diff=lfs merge=lfs -text
 Anthropic.claude-code-2.1.71@linux-x64.vsix filter=lfs diff=lfs merge=lfs -text
+code_1.110.1-1772839366_amd64.deb filter=lfs diff=lfs merge=lfs -text
